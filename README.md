@@ -6,6 +6,7 @@ The project includes a full game logic engine, a GUI built with **Java Swing**, 
 ---
 
 ## 🎮 Game Rules (Simplified)
+- You can read the entire rules here https://en.wikipedia.org/wiki/Tafl_games
 - The game is played on an **11x11 board**.  
 - **Player 1 (Defender)** controls the **King** and 12 Pawns.  
 - **Player 2 (Attacker)** controls 24 Pawns.  
